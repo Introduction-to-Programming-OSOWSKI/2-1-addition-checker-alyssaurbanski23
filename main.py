@@ -5,4 +5,4 @@ def addCheck(x, y, z):
     else:
         return (False)
 
-print(addCheck(10, 4, 13))
+print(addCheck(10, 3, 13))
